@@ -11,7 +11,7 @@ Install Xcode and command line tools
 With [fisherman]
 
 ```fish
-$ fisher add timnew/ios.fish
+$ fisher install timnew/ios.fish
 ```
 
 Hope you have a _fast_ swim!
