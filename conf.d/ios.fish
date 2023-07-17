@@ -1,1 +1,1 @@
-abbr -a -U -- simctlo 'xcrun simctl openurl booted '
+abbr -a -- simctlo 'xcrun simctl openurl booted '
